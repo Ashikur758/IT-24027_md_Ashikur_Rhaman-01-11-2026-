@@ -4,10 +4,8 @@
 
 ### Screenshot (1)
 
-<!-- Upload your screenshot here -->
-
 <p align="center">
-  <img src="Task-01-IntelliJ-Installation/screenshots/image1.png" width="800" alt="IntelliJ IDEA Installation">
+  <img src="task 1.png" width="800" alt="IntelliJ IDEA Installation">
 </p>
 
 ---
