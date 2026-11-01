@@ -73,7 +73,7 @@
 <!-- Upload Screenshot 1 here -->
 
 <p align="center">
-  <img src="Task-04-Prime-Checker-Servlet/screenshots/image1.png" width="800" alt="Prime Checker Form">
+  <img src="task 3.png" width="800" alt="Prime Checker Form">
 </p>
 
 ### Screenshot 2: Prime Checker Result
